@@ -20,7 +20,7 @@ Este projeto tem como objetivo realizar uma análise completa de dados de vendas
 
 - Python 3  
 - Pandas  
-- Google Colab (ou Jupyter Notebook)  
+- Google Colab 
 
 ---
 
